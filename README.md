@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/andricksantos/manual-politicas/blob/master/README.md#manual-de-pol%C3%ADticas-y-procedimientos-de-riesgo-tecnol%C3%B3gico">¿De que trata este manual?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contribuir.md">Guia de contribución</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/andricksantos/manual-politicas/blob/master/contribuir.md#reglas-de-contribuci%C3%B3n">Guia de contribución</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://andricksantos.github.io/manual-politicas/">Manual de politicas y riesgos tecnologicos</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -19,7 +19,7 @@
 
 Este Manual está elaborado para fines de conocer las distintas normas que podemos encontrar y aplicar para buenas prácticas, lo cual está elaborado por la clase Administración Pública y Política informática de la Universidad Nacional Autónoma de Honduras, UNAH-VS.
 
-Inspirado en <a href="https://andricksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
+`Inspirado en` <a href="https://andricksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
 
 ---
 -   Contenido
