@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	<a href="readme.md">¿De que trata este manual?</a>&nbsp;&nbsp;&nbsp;
+	<a href="README.md">¿De que trata este manual?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contribuir.md">Guia de contribución</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://andricksantos.github.io/manual-politicas/">Manual de politicas y riesgos tecnologicos</a>&nbsp;&nbsp;&nbsp;
 </p>
