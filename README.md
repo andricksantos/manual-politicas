@@ -236,5 +236,5 @@ Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si 
 ## Contacto
 Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub.
 
-
+---
 [Volver Arriba](#manual)

@@ -1,6 +1,6 @@
 # Manual de Políticas y Procedimientos de Riesgo Tecnológico
 
-Inspirado en <a href="https://andricksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
+`Inspirado en` <a href="https://andricksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
 
 ---
 -   Contenido
@@ -219,3 +219,5 @@ Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si 
 ## Contacto
 Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub.
 
+--- 
+[Volver arriba](#manual-de-politicas-y-procedimientos-de-riesgo-tecnologico)
