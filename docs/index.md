@@ -27,7 +27,7 @@ Inspirado en <a href="https://andricksantos.github.io/awesome-web-development/" 
 ---
 
 ##  Introducción Del Uso De Internet
-###Propósito
+### Propósito
 El uso del internet se ha vuelto una herramienta de trabajo indispensable para las empresas, ya que permite realizar gestiones administrativas, tales como: 
 
 -   Video conferencias
@@ -38,13 +38,13 @@ Se establece el uso del internet para mejorar la navegación de los usuarios que
 
 Establecer límites en torno al uso del mismo.
 
-###Normas Y Controles
+### Normas Y Controles
 En la empresa el encargado de controlar el tráfico de red es el área IT quienes aplican normas para tener estándares internacionales y así poder estar avalados en los procesos y funciones que deben cumplir en la empresa.
 
 El personal de IT estará constantemente revisando el contenido que el usuario visita para verificar que se esté cumpliendo el reglamento interno y evitar que se registre cualquier amenaza a la seguridad de la empresa conocido como ```Cyber Security.```
 
 
-###Prohibiciones
+### Prohibiciones
 Dentro de la empresa se prohíbe:
 
 -	Visualizar contenido pornográfico, visualizar contenido que vaya en contra del reglamento interno y valores de la empresa.
@@ -53,7 +53,7 @@ Dentro de la empresa se prohíbe:
 -	Descargar contenidos que no esté autorizados por la empresa como ser películas, música y videos.
   
  
-###Procedimientos
+### Procedimientos
 El departamento de IT se encargara de preparar la red para poder utilizarla dentro de la empresa, debe contener todas las medidas de seguridad adecuadas para evitar una falla en el sistema debe tener:
 
 -	Firewall
@@ -65,13 +65,25 @@ Esto para la conexión que la haga segura para los usuarios de la misma.
 
 ---
 ##  Del Antivirus	
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+programas cuyo objetivo es detectar o eliminar virus informáticos. Con el transcurso del tiempo, la aparición de sistemas operativos más avanzados e internet, los antivirus han evolucionado hacia programas más avanzados que además de buscar y detectar virus informáticos consiguen bloquearlos, desinfectar archivos y prevenir una infección de los mismos. 
+
+Actualmente son capaces de reconocer otros tipos de malware como spyware, gusanos, troyanos, rootkits, etc.
+### Normas Y Controles
+`ISO 27001` se encarga de establecer un Sistema de Gestión de Seguridad de la Información, y entre los aspectos que abarca esta materia podemos encontrar la protección contra el código malicioso, las copias de seguridad, la gestión de la seguridad de las redes y la gestión de soportes.
+### Prohibiciones
+El Personal Usuario, no debe bajo ninguna circunstancia tratar de eliminar instrucciones maliciosas de los equipos y/o sistemas conectados a la red del Ministerio, por sus propios medios. 
+
+Ante la mera sospecha de la existencia de una instrucción maliciosa en los sistemas del Ministerio, el usuario debe proceder inmediatamente a hacer uso de los canales formalmente aprobados para hacer el respectivo reporte, ante el Encargado de Seguridad.
+### Procedimientos
+- Definir una política que dé cumplimiento a las licencias de software y que prohíba la instalación de software malicioso no autorizado.
+- Establecer un control de acceso a la información.
+- Concienciación y formación del personal.Realizar revisiones periódicas.Instalar y actualizar un sistema de antivirus e instaurar una política - para utilizarlo con los ficheros adjuntos en un correo electrónico o con los que descargamos.
+- Crear procedimientos para usar el antivirus, dar formación para su uso y para afrontar ataques.
+- Disponer de un software espía, que se encargue de rastrear el trabajo que se realiza, y envíe dicha información a alguien externo.
 ---
 ##  De Los Accesos
-###Propósito
+### Propósito
 El objetivo de la norma `ISO 27002` es controlar el acceso mediante un sistema de restricciones y excepciones a la información como base de todo Sistema de Seguridad de la Información.
 
 Para impedir el acceso no autorizado al Sistema de Gestión de Seguridad de la Información según la norma `ISO 27002` se deberán implantar procedimientos formales para controlar la asignación de derechos de acceso a los sistemas de información, bases de datos y servicios de información, y estos deben estar de forma clara en los documentos, los comunicados y controlarlos en cuanto a su cumplimiento.
@@ -80,7 +92,7 @@ Los procedimientos comprenden todas las etapas de ciclo de vida de los accesos d
 
 La cooperación de todos los usuarios es esencial para la eficiencia de la seguridad, por lo que es necesario que se conciencie sobre las responsabilidades que tiene el mantenimiento de los controles de acceso eficientes, en particular aquellos que se relacionan con la utilización de las contraseñas y la seguridad del equipamiento.
 
-###Normas Y Controles
+### Normas Y Controles
 - Es necesario establecer los procedimientos operativos adecuados para proteger los documentos, medios informáticos, datos de entrada o salida y documentación del sistema contra la divulgación, modificación, retirada o destrucción de los activos no autorizadas.
 
 - Es necesario que se asegure todos los soportes y la información en tránsito no solo físico sino electrónico. Es necesario que se cifren todos los datos sensibles o valiosos antes de ser transportados.
@@ -104,92 +116,92 @@ La cooperación de todos los usuarios es esencial para la eficiencia de la segur
 - Control de acceso al código fuente de los programas
 Es necesario restringir el acceso al código fuente de las aplicaciones del software.
 
-###Prohibiciones
-###Procedimientos
+### Prohibiciones
+### Procedimientos
 ---
 ##  Bitácoras
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Cifrado
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Contraseñas
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Control De Respaldo
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Correo Electrónico
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Parches
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Separación De Ambientes
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Plan De Continuidad
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Redes Y Equipos De Comunicaciones
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Estaciones De Trabajo
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Servidores
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Tercerización
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Información Sensitiva
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 ---
 ##  Seguridad En Centros De Cómputo
-###Propósito
-###Normas Y Controles
-###Prohibiciones
-###Procedimientos
+### Propósito
+### Normas Y Controles
+### Prohibiciones
+### Procedimientos
 --- 
 
 ## Contribuir
