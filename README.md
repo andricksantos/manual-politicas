@@ -11,13 +11,22 @@
 <br>
 
 <p align="center">
-		<sub>Soló <a href="https://github.com/andricksantos/manual-politicas"><code>Manual Políticas</code></a> tienes que escribir para ir aquí. Echa un vistazo a  <a href="https://andricksantos.github.io/">web</a> y sigueme en  <a href="https://twitter.com/santosandrick1">Twitter</a>.</sub>
+    <sub>Soló <a href="https://github.com/andricksantos/manual-politicas"><code>Manual Políticas</code></a> tienes que escribir para ir aquí. Echa un vistazo a  <a href="https://andricksantos.github.io/">web</a> y sigueme en  <a href="https://twitter.com/santosandrick1">Twitter</a>.</sub>
 </p>
 
-<br>
-
-
+<div align="center">
+    <ul>
+        <h3>Universidad Nacional Autónoma de Honduras</h3>
+        <h4>UNAH-VS</h4>
+        <h5>Administración Púbpca y Política informática</h5>
+        <p>Manual elaborado para fines de conocer las distintas normas que podemos encontrar y appcar para buenas prácticas.</p>
+    </ul>
+<hr>
 Inspirado en <a href="https://andricksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
+</div>
+
+
+
 
 ---
 -   Contenido
