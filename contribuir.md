@@ -2,7 +2,8 @@
     <h1 id="contribucion">Reglas de Contribución</h1>
 </div>
 
----
+<br>
+
 
 ###¡Tus contribuciones son siempre bienvenidas!
 

@@ -21,7 +21,7 @@ theme:
   language: 'es'
   palette:
     primary: 'red'
-    accent: 'yellow'
+    accent: 'deep orange'
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'

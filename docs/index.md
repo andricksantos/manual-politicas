@@ -194,14 +194,14 @@ Es necesario restringir el acceso al código fuente de las aplicaciones del soft
 
 ## Contribuir
 ¡Tus contribuciones son siempre bienvenidas! Por favor, eche un vistazo a las  
-[pautas de contribución](https://github.com/andricksantos/awesome-web-development/blob/master/Contributing.md) primero.
+[pautas de contribución](https://github.com/andricksantos/manual-politicas/blob/master/contribuir.md#reglas-de-contribuci%C3%B3n) primero.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andricksantos/awesome-web-development/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **1**.
+Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si esas bibliotecas son asombrosas, puedes [votar por ellas](https://github.com/andricksantos/manual-politicas/pulls) añadiendo: +1 a ellos. Las solicitudes de extracción se fusionarán luego.
 
 - - -
 ## Compartir
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/andricksantos/manual-politicas%20@santosandrick1" target="_blank">Compartir en Twitter</a>
-* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andricksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Compartir en Facebook</a>
+* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andricksantos/manual-politicas&p[images][0]=&p[title]=manual%20politicas&p[summary]=" target="_blank">Compartir en Facebook</a>
 ---
 
 ## Contacto
