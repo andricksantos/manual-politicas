@@ -5,9 +5,9 @@
 <br>
 
 
-###¡Tus contribuciones son siempre bienvenidas!
+### ¡Tus contribuciones son siempre bienvenidas!
 
-##Pautas
+##  Pautas
 -   Añadir un enlace por solicitud de extracción.
 -   Añade el enlace: `* [project-name](http://example.com/) - A short - description ends with a period.`
     -   Mantenga las descripciones concisas.
