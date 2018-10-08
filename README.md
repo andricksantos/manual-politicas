@@ -18,7 +18,7 @@
     <ul>
         <h3>Universidad Nacional Autónoma de Honduras</h3>
         <h4>UNAH-VS</h4>
-        <h5>Administración Púbpca y Política informática</h5>
+        <h5>Administración Pública y Política informática</h5>
         <p>Manual elaborado para fines de conocer las distintas normas que podemos encontrar y appcar para buenas prácticas.</p>
     </ul>
 <hr>
