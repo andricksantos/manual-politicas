@@ -1,0 +1,58 @@
+# Project information
+site_name: 'Manual de Políticas y Procedimientos de Riesgo Tecnológico'
+site_description: 'El Manual de Políticas y Procedimientos de Riesgo Tecnológico debe contener como mínimo los siguientes ITEMS:'
+site_author: 'Andrick Santos'
+site_url: 'https://andricksantos.github.io/manual-politicas'
+
+# Repository
+repo_name: 'Manual Politicas'
+repo_url: 'https://github.com/andricksantos/manual-politicas'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 Andrick Santos'
+
+#pages
+pages:
+  - Políticas y Riegos Tecnológico: index.md
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'es'
+  palette:
+    primary: 'red'
+    accent: 'yellow'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+extra:
+  disqus: 'AndrickSantos'
+
+  # Customization
+extra:
+  social:
+    - type: globe
+      link: https://andricksantos.github.io/
+    - type: github-alt
+      link: https://github.com/andricksantos
+    - type: twitter
+      link: https://twitter.com/santosandrick1
+    - type: facebook
+      link: https://www.facebook.com/andrick.mago
+    - type: instagram
+      link: https://www.instagram.com/andricksantos12/
+
+
+# Google Analytics
+google_analytics:
+  - 'UA-103804510-1'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: true
+  - toc:
+      permalink: true
