@@ -140,9 +140,6 @@ Ninguna persona podrá obligar a otra a proporcionar datos personales que puedan
 ### Propósito
 Es un registro en el que se anotan de forma cronológica todas las actividades que se deben o se llevan a cabo en torno de un proyecto; las soluciones, avances, observaciones, posibles obstáculos, resultados y toda información que sea conveniente registrar en la bitácora. 
 ### Normas Y Controles
-### Prohibiciones
-Totalmente prohibido publicar la información contenida en la hoja de control que lleva el personal IT ya que es información confidencial que cada empresa contiene, se puede publicar, pero con permiso de los jefes superiores para evitar un problema mayor.
-### Procedimientos
 Una hoja de control debe contener toda la información necesaria para el uso correcto, lo siguiente descrito es lo que mayormente debe llevar para obtener la información más importante. 
 
 • Fecha y hora. 
@@ -154,7 +151,18 @@ Una hoja de control debe contener toda la información necesaria para el uso cor
 • Usuarios. 
 
 • Errores. 
+### Prohibiciones
+Totalmente prohibido publicar la información contenida en la hoja de control que lleva el personal IT ya que es información confidencial que cada empresa contiene, se puede publicar, pero con permiso de los jefes superiores para evitar un problema mayor.
+### Procedimientos
+Las bitácoras contienen información crítica es por ello que deben ser analizadas, ya que están teniendo mucha relevancia, como evidencia en aspectos legales. 
 
+El uso de herramientas automatizadas es de mucha utilidad para el análisis de bitácoras, es importante registrar todas las bitácoras necesarias de todos los sistemas de cómputo para mantener un control de las mismas. 
+
+Las Herramientas de análisis de bitácoras más conocidas son las siguientes: 
+
+- Para UNIX, Logcheck, SWATCH. 
+
+- Para Windows, LogAgent 
 
 ---
 ##  Cifrado
