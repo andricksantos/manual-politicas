@@ -163,7 +163,7 @@ Las Herramientas de análisis de bitácoras más conocidas son las siguientes:
 
 - Para UNIX, Logcheck, SWATCH. 
 
-- Para Windows, LogAgent 
+- Para Windows, LogAgent.
 
 ---
 ##  Cifrado
