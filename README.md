@@ -629,7 +629,7 @@ Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si 
 
 - - -
 ## Compartir
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/andricksantos/manual-politicas%20@santosandrick1" target="_blank">Compartir en Twitter</a>
+* <a href="https://twitter.com/intent/tweet?text=https://andricksantos.github.io/manual-politicas/" target="_blank">Compartir en Twitter</a>
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andricksantos/manual-politicas&p[images][0]=&p[title]=manual%20politicas&p[summary]=" target="_blank">Compartir en Facebook</a>
 
 ---
