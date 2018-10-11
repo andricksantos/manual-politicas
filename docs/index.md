@@ -206,6 +206,7 @@ Las contraseñas es un código secreto que el usuario utiliza para resguardar el
 - Para acceder a archivos secretos es preferible utilizar ordenadores o dispositivos de confianza. 
 
 - Requerir otro tipo de acceso luego de ingresar su contraseña se puede poner una pregunta para lograr acceder. 
+
 ### Prohibiciones
 - No se debe utilizar la misma contraseña en todos los sistemas o servicios de acceso. 
 
