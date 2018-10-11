@@ -151,6 +151,7 @@ Una hoja de control debe contener toda la información necesaria para el uso cor
 • Usuarios. 
 
 • Errores. 
+
 ### Prohibiciones
 Totalmente prohibido publicar la información contenida en la hoja de control que lleva el personal IT ya que es información confidencial que cada empresa contiene, se puede publicar, pero con permiso de los jefes superiores para evitar un problema mayor.
 ### Procedimientos
