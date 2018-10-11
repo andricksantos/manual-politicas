@@ -448,6 +448,9 @@ Suelen tener como objetivo ser lo suficientemente poderosas como para maximizar 
 
 - Eliminar software sin utilizar, los servicios y procesos de las estaciones de trabajo. 
 ### Procedimientos
+- Las Estaciones de Trabajo deben de contar con procesadores multinúcleo, una tarjeta gráfica serie Quadro de NVIDIA o las ATi FireGL, una memoria RAM de hasta 24 Gbytes en 6 bancos de memoria, un disco duro de 1 TB, con una caja de ensamblaje robusta (minimo). 
+
+- Gateway de seguridad puede filtrar el uso de internet, por medio de servidores proxy Bastion host que es un intermediario para las conexiones entre usuario y servidor real siendo trasparente para ambas partes, su función es analizar el tráfico de la red que violente la seguridad del mismo. 
 
 ---
 ##  Servidores
