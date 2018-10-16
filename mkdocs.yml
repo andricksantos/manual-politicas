@@ -20,7 +20,7 @@ theme:
   name: 'material'
   language: 'es'
   palette:
-    primary: 'red'
+    primary: 'teal'
     accent: 'deep orange'
   font:
     text: 'Ubuntu'

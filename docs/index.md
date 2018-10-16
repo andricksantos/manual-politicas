@@ -5,6 +5,7 @@
 
 ---
 -   Contenido
+    - [Objetivos](#objetivos)
     - [Introducción Del Uso De Internet](#introduccion-del-uso-de-internet)
     - [Del Antivirus](#del-antivirus)
     - [De Los Accesos](#de-los-accesos)
@@ -27,6 +28,14 @@
     - [Contacto](#contacto)
 
 ---
+## Objetivos
+Los Objetivos del Manual de Políticas y Procedimientos de Riesgo Tecnológico, son los siguientes:
+
+-   Crear y definir las políticas generales y específicas que faciliten la ejecución de las actividades de tecnología de la información en las diferentes áreas de la Institución.
+-   Promover el uso adecuado de los recursos humanos, materiales y activos tecnológicos adecuados.
+-   Normar los procesos de información con la finalidad de mejorar el rendimiento de la empresa.
+-   Establecer las políticas para resguardo y garantía de acceso apropiado de la información.
+-   Incorporar medidas de seguridad en los sistemas de información desde su desarrollo e implementación y durante su mantenimiento, con el fin de reducir los riesgos de error humano y sucesos de origen natural.
 
 ##  Introducción Del Uso De Internet
 ### Propósito
@@ -65,11 +74,15 @@ El departamento de IT se encargara de preparar la red para poder utilizarla dent
 
 Esto para la conexión que la haga segura para los usuarios de la misma.
 
+### Herramientas
+-   [Bloc notas](https://elpregunton.es/como-bloquear-acceso-pagina-web-pc/)
+-   [Verity Parental Control Software](https://www.nchsoftware.com/childmonitoring/index.html)
+-   [Secure kids](https://securekids.es/empresas/)
 
 ---
 ##  Del Antivirus	
 ### Propósito
-programas cuyo objetivo es detectar o eliminar virus informáticos. Con el transcurso del tiempo, la aparición de sistemas operativos más avanzados e internet, los antivirus han evolucionado hacia programas más avanzados que además de buscar y detectar virus informáticos consiguen bloquearlos, desinfectar archivos y prevenir una infección de los mismos. 
+Programas cuyo objetivo es detectar o eliminar virus informáticos. Con el transcurso del tiempo, la aparición de sistemas operativos más avanzados e internet, los antivirus han evolucionado hacia programas más avanzados que además de buscar y detectar virus informáticos consiguen bloquearlos, desinfectar archivos y prevenir una infección de los mismos. 
 
 Actualmente son capaces de reconocer otros tipos de malware como spyware, gusanos, troyanos, rootkits, etc.
 ### Normas Y Controles
@@ -85,6 +98,12 @@ Ante la mera sospecha de la existencia de una instrucción maliciosa en los sist
 - Crear procedimientos para usar el antivirus, dar formación para su uso y para afrontar ataques.
 - Disponer de un software espía, que se encargue de rastrear el trabajo que se realiza, y envíe dicha información a alguien externo.
 
+### Herramientas
+-   [AVG](https://www.avg.com/en-gb/homepage#pc)
+-   [Symantec Norton Security Deluxe](https://co.norton.com/downloads)
+-   [Kaspersky Anti-Virus](https://www.kaspersky.com/)
+-   [ESET NOD32 Antivirus](https://www.eset.com/int/home/for-windows/)
+-   [Avast Free Antivirus](https://www.avast.com/index#pc)
 ---
 ##  De Los Accesos
 ### Propósito
@@ -135,6 +154,9 @@ Ninguna persona podrá obligar a otra a proporcionar datos personales que puedan
 
 - Todos los sistemas de gestión de contraseñas deben ser interactivos y asegurar contraseñas de calidad. 
 
+### Herramientas
+-   []()
+
 ---
 ##  Bitácoras
 ### Propósito
@@ -165,6 +187,9 @@ Las Herramientas de análisis de bitácoras más conocidas son las siguientes:
 
 - Para Windows, LogAgent.
 
+### Herramientas
+-   []()
+
 ---
 ##  Cifrado
 ### Propósito
@@ -191,6 +216,13 @@ Los dos escenarios de protección en los que puedes aplicar cifrados son dos:
 - Cifrado en tránsito: asegura la privacidad de los datos mientras son transmitidos por la red. 
 
 - Cifrado local: asegura la privacidad de los datos locales. 
+
+### Herramientas
+-   [AxCrypt](http://www.axantum.com/AxCrypt/Default.html)
+-   [TrueCrypt](http://www.truecrypt.org/)
+-   [CloudFogger](http://www.cloudfogger.com/en/)
+-   [CamouFlage](http://camouflage.unfiction.com/)
+-   [VeraCrypt](https://veracrypt.codeplex.com/)
 
 ---
 ##  Contraseñas
@@ -226,6 +258,9 @@ Las contraseñas es un código secreto que el usuario utiliza para resguardar el
 ### Procedimientos
 Las contraseñas serán dadas inicialmente por la persona encargada de dicho procedimiento. Los usuarios recibirán la instrucción de cambiar sus contraseñas siempre que el sistema lo permita. Al momento de cambiar su contraseña deberá tomar en cuenta las normas y prohibiciones. 
 
+### Herramientas
+-   [Password Generator Online](https://andricksantos.github.io/password-generator/)
+
 ---
 ##  Control De Respaldo
 ### Propósito
@@ -257,6 +292,13 @@ ISO-27001 E 27002: Disminuir las fallas del sistema, se necesita planear y prepa
 - Cifrado. Todos los datos confidenciales deben estar cifrados cuando se almacenen o copien. Además, todos los datos de interfaz de gestión transmitidos a través de cualquier red que no sea privada deben estar cifrados. Los datos confidenciales se definen como la información que contiene datos personales o secretos comerciales. 
 
 - Auditoría. Deben mantenerse los registros de las operaciones administrativas de cualquier usuario para garantizar la rastreabilidad y responsabilidad. 
+
+### Herramientas
+-   [EaseUs Todo](http://es.easeus.com/backup-software/)
+-   [Comodo Backup](https://www.comodo.com/home/backup-online-storage/comodo-backup-registration.php)
+-   [Aomie Backupper Standard](http://www.backup-utility.com/free-backup-software.html)
+-   [Areca Backup](http://www.areca-backup.org/)
+-   [Cobian  Backup](http://www.cobiansoft.com/index.htm)
 
 ---
 ##  Correo Electrónico
@@ -298,6 +340,12 @@ Por parte de los agentes y funcionarios de la APP debe favorecerse, teniendo en 
 - La institución podrá hacer llegar a sus clientes, por medio de correo electrónico o por su sitio de Internet, las notificaciones que sus políticas o normas de revelación de información le permitan, así como cualquier otra información relacionada a las obligaciones de confidencialidad. 
 
 - La transmisión de correo de la institución hacia el cliente deberá hacerse a través de un ambiente seguro, tomando las medidas apropiadas que protejan la confidencialidad de la información.
+
+### Herramientas
+-   [Gmail](https://mail.google.com/)
+-   [Yahoo](https://login.yahoo.com/)
+-   [Outlook](https://www.outlook.com/)
+-   [Aol mail](https://mail.aol.com/)
 
 ---
 ##  Parches
@@ -342,6 +390,9 @@ WSUS permite la distribución de los parches y actualizaciones publicadas por Mi
 
 Una vez hayamos instalado WSUS en nuestro servidor, éste descargará desde Windows Update todas las actualizaciones que haya disponible para todos los productos de Microsoft para, posteriormente, distribuirlas entre los usuarios que estén vinculados al directorio activo de este servidor o incluso a otros servidores que se encuentren en el mismo bosque que el directorio activo principal. 
 
+### Herramientas
+-   []()
+
 ---
 ##  Separación De Ambientes
 ### Propósito
@@ -372,6 +423,9 @@ Reglamentar la operatoria con el objeto de asegurar una adecuada separación de 
 Definir la correcta segregación de funciones de acuerdo a las funciones operacionales de cada usuario para evitar la connivencia. Luego se debe establecer un mecanismo de comunicación con las áreas de administración de Recursos Humanos sobre los usuarios interno y externos. 
 
 Verificamos que la información de seguridad definida en el sistema sea resguardada adecuadamente. 
+
+### Herramientas
+-   []()
 
 ---
 ##  Plan De Continuidad
@@ -408,6 +462,9 @@ En cada procedimiento se tiene que insertar:
 
 - Implementar las prioridades de recuperación. 
 
+### Herramientas
+-   []()
+
 ---
 ##  Redes Y Equipos De Comunicaciones
 ### Propósito
@@ -432,6 +489,9 @@ Los sistemas de información actuales cuentan con redes que son vulnerables a ac
 - Ejecución de programas desconocidos vía por correo electrónico o por cualquier otro medio. 
 ### Procedimientos
 
+
+### Herramientas
+-   []()
 
 ---
 ##  Estaciones De Trabajo
@@ -462,6 +522,9 @@ Suelen tener como objetivo ser lo suficientemente poderosas como para maximizar 
 
 - Gateway de seguridad puede filtrar el uso de internet, por medio de servidores proxy Bastion host que es un intermediario para las conexiones entre usuario y servidor real siendo trasparente para ambas partes, su función es analizar el tráfico de la red que violente la seguridad del mismo. 
 
+### Herramientas
+-   []()
+
 ---
 ##  Servidores
 ### Propósito
@@ -488,6 +551,9 @@ Los servidores les permiten a los usuarios compartir datos, información y recur
 - El Administrador de Sistemas tendrá las actualizaciones más recientes de seguridad sean instaladas en los servidores tan pronto como sea posible, validando previamente en ambientes de prueba, considerando el menor impacto en la continuidad de los servicios de negocio y contando con la aprobación del Comité de Gestión Tecnológica. 
 
 - Se deberá crear un respaldo en físico de la información del servidor por si el mismo llega a tener un fallo. 
+
+### Herramientas
+-   []()
 
 ---
 ##  Tercerización
@@ -523,6 +589,9 @@ hoy en día la tercerización del trabajo es un fenómeno que preocupa a la clas
 - Informes completos a la gerencia. 
 
 - Cumplir con las normas y políticas relacionadas con la tercerización, siempre mantener toda actividad dentro de la ley laboral. 
+
+### Herramientas
+-   []()
 
 ---
 ##  Información Sensitiva
@@ -561,6 +630,9 @@ información personal privada de un individuo, por ejemplo, ciertos datos person
 
 - Cumplir con las normas y políticas relacionadas con el uso de la información sensitiva definidas por la organización. 
 
+
+### Herramientas
+-   []()
 
 ---
 ##  Seguridad En Centros De Cómputo
@@ -607,6 +679,9 @@ La seguridad en un centro de cómputo no solo se refiere a la protección del ha
 - El encargado del centro de computo llevara el control de las funciones realizadas atravez de un documento diario. 
 
 - El encargado del centro de cómputo podrá dar autorización al ingreso de personas previamente identificadas.
+
+### Herramientas
+-   []()
 
 --- 
 
