@@ -3,15 +3,15 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/andricksantos/manual-politicas/blob/master/README.md#manual-de-pol%C3%ADticas-y-procedimientos-de-riesgo-tecnol%C3%B3gico">¿De que trata este manual?</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/andricksantos/manual-politicas/blob/master/contribuir.md#reglas-de-contribuci%C3%B3n">Guia de contribución</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://andricksantos.github.io/manual-politicas/">Manual de politicas y riesgos tecnologicos</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/andriksantos/manual-politicas/blob/master/README.md#manual-de-pol%C3%ADticas-y-procedimientos-de-riesgo-tecnol%C3%B3gico">¿De que trata este manual?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/andriksantos/manual-politicas/blob/master/contribuir.md#reglas-de-contribuci%C3%B3n">Guia de contribución</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://andriksantos.github.io/manual-politicas/">Manual de politicas y riesgos tecnologicos</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-    <sub>Soló <a href="https://github.com/andricksantos/manual-politicas"><code>Manual Políticas</code></a> tienes que escribir para ir aquí. Echa un vistazo a  <a href="https://andricksantos.github.io/">web</a> y sigueme en  <a href="https://twitter.com/santosandrick1">Twitter</a>.</sub>
+    <sub>Soló <a href="https://github.com/andriksantos/manual-politicas"><code>Manual Políticas</code></a> tienes que escribir para ir aquí. Echa un vistazo a  <a href="https://andriksantos.github.io/">web</a> y sigueme en  <a href="https://twitter.com/santosandrik1">Twitter</a>.</sub>
 </p>
 
 <div align="center">
@@ -22,7 +22,7 @@
         <p>Manual elaborado para fines de conocer las distintas normas que podemos encontrar y appcar para buenas prácticas.</p>
     </ul>
 <hr>
-Inspirado en <a href="https://andricksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
+Inspirado en <a href="https://andriksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
 </div>
 
 
@@ -284,7 +284,7 @@ Las contraseñas es un código secreto que el usuario utiliza para resguardar el
 Las contraseñas serán dadas inicialmente por la persona encargada de dicho procedimiento. Los usuarios recibirán la instrucción de cambiar sus contraseñas siempre que el sistema lo permita. Al momento de cambiar su contraseña deberá tomar en cuenta las normas y prohibiciones. 
 
 ### Herramientas
--   [Password Generator Online](https://andricksantos.github.io/password-generator/)
+-   [Password Generator Online](https://andriksantos.github.io/password-generator/)
 
 ---
 ##  Control De Respaldo
@@ -712,19 +712,19 @@ La seguridad en un centro de cómputo no solo se refiere a la protección del ha
 
 ## Contribuir
 ¡Tus contribuciones son siempre bienvenidas! Por favor, eche un vistazo a las  
-[pautas de contribución](https://github.com/andricksantos/manual-politicas/blob/master/contribuir.md#reglas-de-contribuci%C3%B3n) primero.
+[pautas de contribución](https://github.com/andriksantos/manual-politicas/blob/master/contribuir.md#reglas-de-contribuci%C3%B3n) primero.
 
-Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si esas bibliotecas son asombrosas, puedes [votar por ellas](https://github.com/andricksantos/manual-politicas/pulls) añadiendo: +1 a ellos. Las solicitudes de extracción se fusionarán luego.
+Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si esas bibliotecas son asombrosas, puedes [votar por ellas](https://github.com/andriksantos/manual-politicas/pulls) añadiendo: +1 a ellos. Las solicitudes de extracción se fusionarán luego.
 
 - - -
 ## Compartir
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/andricksantos/manual-politicas%20@santosandrick1" target="_blank">Compartir en Twitter</a>
-* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andricksantos/manual-politicas&p[images][0]=&p[title]=manual%20politicas&p[summary]=" target="_blank">Compartir en Facebook</a>
+* <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/manual-politicas%20@santosandrik1" target="_blank">Compartir en Twitter</a>
+* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/manual-politicas&p[images][0]=&p[title]=manual%20politicas&p[summary]=" target="_blank">Compartir en Facebook</a>
 
 ---
 
 ## Contacto
-Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) en Gmail o abra un issue en GitHub.
+Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andriksantos1@gmail.com](mailto:andriksantos1@gmail.com) en Gmail o abra un issue en GitHub.
 
 
 --- 
