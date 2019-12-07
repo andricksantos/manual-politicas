@@ -693,13 +693,13 @@ Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si 
 
 - - -
 ## Compartir
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/manual-politicas%20@santosandrik1" target="_blank">Compartir en Twitter</a>
+* <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/manual-politicas%20@andrik_rsm" target="_blank">Compartir en Twitter</a>
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/manual-politicas&p[images][0]=&p[title]=manual%20politicas&p[summary]=" target="_blank">Compartir en Facebook</a>
 
 ---
 
 ## Contacto
-Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andriksantos1@gmail.com](mailto:andriksantos1@gmail.com) en Gmail o abra un issue en GitHub.
+Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) en Gmail o abra un issue en GitHub.
 
 
 --- 
