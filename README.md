@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-    <sub>Soló <a href="https://github.com/andriksantos/manual-politicas"><code>Manual Políticas</code></a> tienes que escribir para ir aquí. Echa un vistazo a  <a href="https://andriksantos.github.io/">web</a> y sigueme en  <a href="https://twitter.com/santosandrik1">Twitter</a>.</sub>
+    <sub>Soló <a href="https://github.com/andriksantos/manual-politicas"><code>Manual Políticas</code></a> tienes que escribir para ir aquí. Echa un vistazo a  <a href="https://andriksantos.github.io/">web</a> y sigueme en  <a href="https://twitter.com/andrik_rsm">Twitter</a>.</sub>
 </p>
 
 <div align="center">
@@ -724,7 +724,7 @@ Mantendré algunas solicitudes de extracción abiertas si no estoy seguro de si 
 ---
 
 ## Contacto
-Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andriksantos1@gmail.com](mailto:andriksantos1@gmail.com) en Gmail o abra un issue en GitHub.
+Si tiene alguna pregunta sobre esta lista de opiniones, no dude en ponerse en contacto conmigo [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) en Gmail o abra un issue en GitHub.
 
 
 --- 

@@ -18,5 +18,3 @@
 -   Revisa tu ortografía y gramática.
 -   Eliminar cualquier espacio en blanco al final.
 -   Envía una solicitud de extracción con la razón por la que la - biblioteca es impresionante.
-
-

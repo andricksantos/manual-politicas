@@ -9,7 +9,7 @@ repo_name: 'Manual Politicas'
 repo_url: 'https://github.com/andriksantos/manual-politicas'
 
 # Copyright
-copyright: 'Copyright &copy; 2019 Andrik Santos'
+copyright: 'Copyright &copy; 2020 Andrik Santos'
 
 #pages
 pages:
@@ -42,10 +42,12 @@ extra:
       link: https://www.instagram.com/andriksantos12/
     - type: linkedin
       link: https://www.linkedin.com/in/andriksantos/
+    - type: twitter
+      link: https://www.twitter.com/andrik_rsm
 
 # Google Analytics
 google_analytics:
-  - 'UA-103804510-1'
+  - 'UA-169388687-1'
   - 'auto'
 
 # Extensions
