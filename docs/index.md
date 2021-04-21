@@ -1,32 +1,5 @@
 # Manual de Políticas y Procedimientos de Riesgo Tecnológico
 
-`Inspirado en` <a href="https://andriksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
-
-
----
--   Contenido
-    - [Objetivos](#objetivos)
-    - [Introducción Del Uso De Internet](#introduccion-del-uso-de-internet)
-    - [Del Antivirus](#del-antivirus)
-    - [De Los Accesos](#de-los-accesos)
-    - [Bitácoras](#bitacoras)
-    - [Cifrado](#cifrado)
-    - [Contraseñas](#contraseñas)
-    - [Control De Respaldo](#control-de-respaldo)
-    - [Correo Electrónico](#correo-electronico)
-    - [Parches](#parshes)
-    - [Separación De Ambientes](#separacion-de-ambientes)
-    - [Plan De Continuidad](#plan-de-continuidad)
-    - [Redes Y Equipos De Comunicaciones](#redes-y-equipos-de-comunicacion)
-    - [Estaciones De Trabajo](#estaciones-de-trabajo)
-    - [Servidores](#servidores)
-    - [Tercerización](#tercerizacion)
-    - [Información Sensitiva](#informacion-sensitiva)
-    - [Seguridad En Centros De Cómputo](#seguridad-en-centros-de-computo)
-    - [Contribuir](#contribuir)
-    - [Compartir](#compartir)
-    - [Contacto](#contacto)
-
 ---
 ## Objetivos
 Los Objetivos del Manual de Políticas y Procedimientos de Riesgo Tecnológico, son los siguientes:

@@ -21,12 +21,7 @@
         <h5>Administración Pública y Política informática</h5>
         <p>Manual elaborado para fines de conocer las distintas normas que podemos encontrar y appcar para buenas prácticas.</p>
     </ul>
-<hr>
-Inspirado en <a href="https://andriksantos.github.io/awesome-web-development/" target="_blank" title="Go to website">Awesome Web Development</a>
 </div>
-
-
-
 
 ---
 -   Contenido
@@ -111,8 +106,7 @@ Programas cuyo objetivo es detectar o eliminar virus informáticos. Con el trans
 
 Actualmente son capaces de reconocer otros tipos de malware como spyware, gusanos, troyanos, rootkits, etc.
 ### Normas Y Controles
-`ISO 27001` se encarga de establecer un Sistema de Gestión de Seguridad de la Información, y entre los aspectos que abarca esta materia podemos encontrar la protección contra el código malicioso, las copias de seguridad, la gestión de la seguridad de las redes y la gestión de soportes.
-### Prohibiciones
+`ISO 27001` se encarga de establecer un Sistema de Gestión de Seguridad de la Información, y entre los aspectos que abarca esta materia podemos encontrar la protección contra el código malicioso, las copias de seguridad, la gestión de la seguridad de las redes y la gestión de soporte### Prohibiciones
 El Personal Usuario, no debe bajo ninguna circunstancia tratar de eliminar instrucciones maliciosas de los equipos y/o sistemas conectados a la red del Ministerio, por sus propios medios. 
 
 Ante la mera sospecha de la existencia de una instrucción maliciosa en los sistemas del Ministerio, el usuario debe proceder inmediatamente a hacer uso de los canales formalmente aprobados para hacer el respectivo reporte, ante el Encargado de Seguridad.
